@@ -6,8 +6,8 @@ from OKCoinFutureAPI import OKCoinFuture
 from OKCoinAPI import OKCoinMarketAPI, OKCoinDealsAPI
 
 # init apikey，secretkey and RESTURL
-APIKEY = '4de2b5ee-431a-46a2-877e-82184ed09898'
-SECRETKEY = 'CE9BE98916984CBDC518D3D3997F5792'
+APIKEY = 'xxxx'
+SECRETKEY = 'xxxx'
 OKCOINRESTURL = 'www.okcoin.cn'
 
 # 现货API
